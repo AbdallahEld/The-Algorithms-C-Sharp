@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="C-Sharp.Test/C-Sharp.Test.csproj" />
+  <Project Path="C-Sharp/C-Sharp.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\bin\Debug\net8.0\C-Sharp.exe
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\bin\Debug\net8.0\C-Sharp.deps.json
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\bin\Debug\net8.0\C-Sharp.runtimeconfig.json
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\bin\Debug\net8.0\C-Sharp.dll
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\bin\Debug\net8.0\C-Sharp.pdb
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.AssemblyInfoInputs.cache
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.AssemblyInfo.cs
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.csproj.CoreCompileInputs.cache
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.sourcelink.json
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.dll
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\refint\C-Sharp.dll
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.pdb
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\C-Sharp.genruntimeconfig.cache
+D:\Learning\For Github\The Algorithms in C#\The-Algorithms-C-Sharp\C-Sharp\C-Sharp\obj\Debug\net8.0\ref\C-Sharp.dll

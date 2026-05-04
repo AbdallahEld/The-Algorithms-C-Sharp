@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVT7qQ0FELA=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\For Github\\The Algorithms in C#\\The-Algorithms-C-Sharp\\C-Sharp\\C-Sharp\\C-Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SoftLaptop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\SoftLaptop\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\SoftLaptop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\SoftLaptop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
